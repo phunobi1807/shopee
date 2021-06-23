@@ -1,0 +1,17 @@
+:root
+{
+    --white-color: #fff;
+    --black-color: #000;
+    --text-color: #333;
+}
+
+*
+{
+    box-sizing: inherit;
+}
+
+html
+{
+    /* 16px */
+    font-size: 100%;  
+}

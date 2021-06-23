@@ -1,0 +1,21 @@
+:root
+{
+    --white-color: #fff;
+    --black-color: #000;
+    --text-color: #333;
+}
+
+*
+{
+    box-sizing: inherit;
+}
+
+html
+{
+    /* 10px */
+    font-size: 100%;  
+}
+h1
+{
+    font-size: calc(1rem-4px);
+}
